@@ -1,4 +1,4 @@
-# representation_is_all_you_need
+# Representation is all you need
 Repository article " Representation is all you need "
 
 Link to the representations used in the article:
