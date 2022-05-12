@@ -19,7 +19,7 @@ pip install -r requirements.txt
 kaggle datasets download -d claudiovaliense/datasets-tfidf
 
 Change the command inside the 'representation_with_mlp.sh' file as per the dataset
-varios_datasets 'aisopos_ntua_2L' '0' '10'
+varios_datasets 'aisopos_ntua_2L' '0 1 2' '10'
 
 # Execute soluction
 sh representation_with_mlp.sh
