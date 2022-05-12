@@ -2,7 +2,7 @@
 Repository article " Representation is all you need "
 
 ### Execute MLP tfidf----------------
-
+```shell script
 # Download code
 git clone https://github.com/claudiovaliense/representation_is_all_you_need.git
 
@@ -23,7 +23,7 @@ varios_datasets 'aisopos_ntua_2L' '0' '10'
 
 # Execute soluction
 sh representation_with_mlp.sh
-
+```
 
 ### Link to the representations used in the article:
 
